@@ -1,5 +1,5 @@
 # Text-to-audio-
 
 Name - Gaurav Sewda
-Department - Electrical ENgineering 
+Department - Electrical Engineering 
 Institute - IIT Delhi 
