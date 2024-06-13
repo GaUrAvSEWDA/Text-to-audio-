@@ -1,5 +1,4 @@
-# Text-to-audio-
+# Text-to-audio
 
-Name - Gaurav Sewda
-Department - Electrical Engineering 
-Institute - IIT Delhi 
+-using an external API to convert text into audio junks 
+-frontend :- React.js
